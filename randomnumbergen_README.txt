@@ -11,3 +11,4 @@ version 2:
 
 Binary number generator also added.
 You can now provide Range for natural number.
+you can now leave the range empty too for default values.
