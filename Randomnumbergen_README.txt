@@ -7,3 +7,7 @@ To run from console use command: python3 randomnumbergen.py and follow the onscr
 
 *************************option to view seed is also available*****************************************
 
+version 2:
+
+Binary number generator also added.
+You can now provide Range for natural number.
