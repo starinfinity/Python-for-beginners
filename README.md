@@ -2,7 +2,7 @@
 
 ![Image description](python.png)
 
-started learning python and these are few small projects i am creating to learn python
+These are few projects for a person who has just started learning Python.
 
 DeletionScript.py
 
