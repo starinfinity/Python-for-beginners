@@ -1,0 +1,16 @@
+
+def linearsearch(search, itemslist):
+    result = False
+    for items in itemslist:
+      if(search == items):
+        result = True
+    return result
+        
+if __name__ == "__main__":
+    fruits = ["apples", "bananas", "pineapple", "orange"]
+    search = "apples"
+    result = linearsearch(search, fruits)
+    if result:
+        print(f"{search} is in the list")
+    else:
+        print(f"{search} is not in the list")
